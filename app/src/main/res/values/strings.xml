@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TSCG</string>
+    <string name="check_internet_connection">Internetga bog\'lanishni tekshiring!</string>
+    <string name="exit">Chiqish!</string>
+    <string name="wanttoexit">Siz rostdan ham chiqmoqchimisiz?</string>
+    <string name="Yes">Ha</string>
+    <string name="No">Yo\'q</string>
+    <string name="Error">Xatolik</string>
+    <string name="try_again">Qayta urinish</string>
+</resources>
