@@ -1,3 +1,3 @@
 # Tscghostmanuz
 
-Just another webview app for client
+Just another webview app
